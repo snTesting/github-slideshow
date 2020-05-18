@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+As someone said:
+> Black cars can become warm in summer.
 Use the left arrow to go back!
